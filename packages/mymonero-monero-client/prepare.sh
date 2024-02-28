@@ -5,8 +5,8 @@ set -e # Exit on any error
 # Dependencies
 
 ## These should be audited!
-mymonero_core_cpp_url='https://github.com/mymonero/mymonero-core-cpp'
-mymonero_core_cpp_hash='9637c91cbe5f46e67156c66c739932294808109d'
+mymonero_core_cpp_url='https://github.com/Corgi-Dev/mymonero-core-cpp'
+mymonero_core_cpp_hash='c6906fa07b18e2118a991e1f13390c48af5cc3e8'
 monero_core_custom_url='https://github.com/mymonero/monero-core-custom'
 monero_core_custom_hash='d0d4ec2c99a1db96518a98ff47773d76cf729d84'
 
